@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/lacambra-Portfolio/static/css/main.35eec05c.css",
+    "main.js": "/lacambra-Portfolio/static/js/main.49d5a29f.js",
+    "static/media/model.png": "/lacambra-Portfolio/static/media/model.2274474740f254a1cb0e.png",
+    "static/media/123.png": "/lacambra-Portfolio/static/media/123.2bba936c74cd52392faa.png",
+    "static/media/bg.png": "/lacambra-Portfolio/static/media/bg.0c0ca56683cfb710e052.png",
+    "static/media/services-2.png": "/lacambra-Portfolio/static/media/services-2.0c1fa6fb0510208519c1.png",
+    "static/media/servies-3.png": "/lacambra-Portfolio/static/media/servies-3.b32403cf4894eaa366c8.png",
+    "static/media/services-1.png": "/lacambra-Portfolio/static/media/services-1.f85dcfe3c46797c2bbe4.png",
+    "index.html": "/lacambra-Portfolio/index.html",
+    "main.35eec05c.css.map": "/lacambra-Portfolio/static/css/main.35eec05c.css.map",
+    "main.49d5a29f.js.map": "/lacambra-Portfolio/static/js/main.49d5a29f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35eec05c.css",
+    "static/js/main.49d5a29f.js"
+  ]
+}
